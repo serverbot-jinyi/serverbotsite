@@ -1,0 +1,154 @@
+
+body {
+    background: linear-gradient(500deg, #99CCFF 85%, #99CCFF);
+}
+#s1 {
+    position: absolute;
+    top: 200px;
+    left: 350px;
+    color: rgb(0, 0, 0);
+    font-family: 'Jua', sans-serif;
+    font-size: 50pt
+}
+#s2 {
+    position: absolute;
+    top: 280px;
+    left: 360px;
+    color: rgb(0, 0, 0);
+    font-family: 'Jua', sans-serif;
+    font-size: 50pt
+}
+#b1 {
+    position: relative;
+	color: black;
+	border: solid 1px black;
+	border-radius: 5vw;
+	display: inline-block;
+	padding: 25px 5px; 
+	cursor: pointer;
+    font-family: 'Jua', sans-serif;
+    font-size: 30pt;
+    position: absolute;
+    top: 580px;
+    left: 360px;
+}
+#b2 {
+    position: relative;
+	color: black;
+	border: solid 1px black;
+	border-radius: 5vw;
+	display: inline-block;
+	padding: 25px 5px; 
+	cursor: pointer;
+    font-family: 'Jua', sans-serif;
+    font-size: 30pt;
+    position: absolute;
+    top: 580px;
+    left: 600px;
+}
+button:hover {
+    background-color: #99CCFF;
+}
+#m1 {
+    position: relative;
+	color: #000000;
+	border: solid 1px #99CCFF;
+    background-color: #99CCFF;
+	display: inline-block;
+	padding: 10px 5px; 
+	cursor: pointer;
+    font-family: 'Jua', sans-serif;
+    font-size: 20pt;
+    position: absolute;
+    top: 50px;
+    left: 1025px;
+}
+#m2 {
+    position: relative;
+	color: #000000;
+	border: solid 1px #99CCFF;
+    background-color: #99CCFF;
+	display: inline-block;
+	padding: 10px 5px; 
+	cursor: pointer;
+    font-family: 'Jua', sans-serif;
+    font-size: 20pt;
+    position: absolute;
+    top: 50px;
+    left: 1120px;
+}
+#m3 {
+    position: relative;
+	color: #000000;
+	border: solid 1px #99CCFF;
+    background-color: #99CCFF;
+	display: inline-block;
+	padding: 10px 5px; 
+	cursor: pointer;
+    font-family: 'Jua', sans-serif;
+    font-size: 20pt;
+    position: absolute;
+    top: 50px;
+    left: 1190px;
+}
+#m4 {
+    position: relative;
+	color: #000000;
+	border: solid 1px #99CCFF;
+    background-color: #99CCFF;
+	display: inline-block;
+	padding: 10px 5px; 
+	cursor: pointer;
+    font-family: 'Jua', sans-serif;
+    font-size: 20pt;
+    position: absolute;
+    top: 50px;
+    left: 1300px;
+}
+#s3{
+    position: absolute;
+    top: 450px;
+    left: 350px;
+    color: rgb(0, 0, 0);
+    font-family: 'Jua', sans-serif;
+    font-size: 15pt
+}
+#s4{
+    position: absolute;
+    top: 470px;
+    left: 350px;
+    color: rgb(0, 0, 0);
+    font-family: 'Jua', sans-serif;
+    font-size: 15pt
+}
+#i1{
+    max-width: 500px;
+    height: 100px;
+    position: absolute;
+    top: 30px;
+    left: 100px;
+}
+#s5{
+    position: absolute;
+    top: 730px;
+    left: 350px;
+    color: rgb(255, 255, 255);
+    font-family: 'Jua', sans-serif;
+    font-size: 15pt
+}
+#s6{
+    position: absolute;
+    top: 770px;
+    left: 350px;
+    color: rgb(255, 255, 255);
+    font-family: 'Jua', sans-serif;
+    font-size: 15pt
+}
+#s7{
+    position: absolute;
+    top: 810px;
+    left: 350px;
+    color: rgb(255, 255, 255);
+    font-family: 'Jua', sans-serif;
+    font-size: 15pt
+}
